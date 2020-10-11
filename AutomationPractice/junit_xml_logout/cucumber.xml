@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="13.53711">
+<testcase classname="Logout" name="Logout of an test account at automationpractice page." time="13.53711">
+<system-out><![CDATA[Given A client launched Google Chrome.......................................passed
+When open automationpractice page...........................................passed
+Then press 'Sign in' option.................................................passed
+And type the credentials....................................................passed
+And press 'Sign in' button..................................................passed
+And displayed 'My Account' page.............................................passed
+And logout of it............................................................passed
+And displayed 'Authentication' page.........................................passed
+And close browser...........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

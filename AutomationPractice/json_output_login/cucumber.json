@@ -1,0 +1,106 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Login with specific credentials at automationpractice page.",
+        "description": "",
+        "id": "login;login-with-specific-credentials-at-automationpractice-page.",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1005279153,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "A client launched Google Chrome",
+            "match": {
+              "location": "StepDefinitionLogin.a_client_launched_Google_Chrome()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5656181007,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "open automationpractice page",
+            "match": {
+              "location": "StepDefinitionLogin.open_automationpractice_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1207912116,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "press \u0027Sign in\u0027 option",
+            "match": {
+              "location": "StepDefinitionLogin.press_Sign_in_option()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 161857923,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "type the credentials",
+            "match": {
+              "location": "StepDefinitionLogin.type_the_credentials()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1712726974,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "press \u0027Sign in\u0027 button",
+            "match": {
+              "location": "StepDefinitionLogin.press_Sign_in_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7014193,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "displayed \u0027My Account\u0027 page",
+            "match": {
+              "location": "StepDefinitionLogin.displayed_My_Account_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 67463386,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "close browser",
+            "match": {
+              "location": "StepDefinitionLogin.close_browser()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Login",
+    "description": "",
+    "id": "login",
+    "keyword": "Feature",
+    "uri": "/home/jdrodriguez/JuanDavid/Choucair_prueba_tecnica/AutomationPractice/src/test/resources/features/login.feature"
+  }
+]

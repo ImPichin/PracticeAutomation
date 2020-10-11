@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="1" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0">
+<testcase classname="Login" name="Login with specific credentials at automationpractice page." time="0">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given A client launched Google Chrome.......................................undefined
+When open automationpractice page...........................................undefined
+Then press 'Sign in' option.................................................undefined
+And type the credentials....................................................undefined
+And press 'Sign in' button..................................................undefined
+And displayed 'My Account' page.............................................undefined
+And close browser...........................................................undefined
+]]></failure>
+</testcase>
+</testsuite>
